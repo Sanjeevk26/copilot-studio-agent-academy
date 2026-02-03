@@ -176,4 +176,3 @@ You now understand the foundational concepts behind agents:
 
 ---
 
-Stay sharp, Recruit — the real building begins next.
