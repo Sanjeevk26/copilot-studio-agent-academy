@@ -1,6 +1,6 @@
 # Mission 01 — Introduction to Agents
 
-## 🎯 Mission Brief
+## Mission Brief
 
 Welcome, Recruit.
 
@@ -10,7 +10,7 @@ Think of this mission as learning how the engine works before you start flying t
 
 ---
 
-## 🔎 Objectives
+## Objectives
 
 By completing this mission, you will understand:
 
@@ -22,7 +22,7 @@ By completing this mission, you will understand:
 
 ---
 
-## 🗣️ What Is Conversational AI?
+## What Is Conversational AI?
 
 Conversational AI refers to systems that can understand, process, and respond to human language (text or speech) in a natural, interactive way.
 
@@ -35,7 +35,7 @@ Most modern conversational AI systems are powered by **Large Language Models (LL
 
 ---
 
-## 🧠 Large Language Models (LLMs) — The Basics
+## Large Language Models (LLMs) — The Basics
 
 Large Language Models are neural networks trained on massive amounts of text data. Their goal is to learn the patterns of human language so they can generate coherent and context-aware responses.
 
@@ -58,7 +58,7 @@ You interact with an LLM using prompts. Clear, well-structured prompts lead to b
 
 ---
 
-## 🔎 Retrieval-Augmented Generation (RAG)
+## Retrieval-Augmented Generation (RAG)
 
 LLMs are trained on static data, which means:
 - They may not know recent information
@@ -88,7 +88,7 @@ With RAG, your agent can provide **accurate, up-to-date, and organization-specif
 
 ---
 
-## 🤖 Conversational vs. Autonomous Agents
+## Conversational vs. Autonomous Agents
 
 In Copilot Studio, the term *agent* can describe different operating models.
 
@@ -128,7 +128,7 @@ In Copilot Studio, the term *agent* can describe different operating models.
 
 ---
 
-### 🔑 Key Difference
+### Key Difference
 
 | Conversational Agents | Autonomous Agents |
 |----------------------|------------------|
@@ -138,7 +138,7 @@ In Copilot Studio, the term *agent* can describe different operating models.
 
 ---
 
-## 🧩 Agents in Copilot Studio
+## Agents in Copilot Studio
 
 Copilot Studio allows you to build both conversational and autonomous agents using a unified platform.
 
@@ -164,7 +164,7 @@ Key capabilities include:
 
 ---
 
-## ✅ Mission Complete
+## Mission Complete
 
 You now understand the foundational concepts behind agents:
 
@@ -175,12 +175,5 @@ You now understand the foundational concepts behind agents:
 - **Copilot Studio** brings these together in a single development experience
 
 ---
-
-## ➡️ Next Mission
-
-Mission 02 will introduce the **core building blocks of Copilot Studio**, including:
-- Knowledge
-- Skills
-- Autonomy
 
 Stay sharp, Recruit — the real building begins next.
