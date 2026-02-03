@@ -56,7 +56,6 @@ Helpful but optional:
 
 | Mission | Focus Area |
 |-------:|-----------|
-| 00 | Environment & tenant setup |
 | 01 | Agent fundamentals and mental models |
 | 02 | Copilot Studio building blocks |
 | 03 | Declarative agent creation |
