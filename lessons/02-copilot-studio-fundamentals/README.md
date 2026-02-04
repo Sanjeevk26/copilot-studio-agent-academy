@@ -223,7 +223,3 @@ From this lesson, the following understanding is established:
 These fundamentals are required before building any functional agent.
 
 ---
-
-## Next Steps
-
-The next lesson focuses on creating a declarative agent for Microsoft 365 Copilot, including defining instructions and grounding the agent in knowledge sources.
