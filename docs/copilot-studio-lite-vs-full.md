@@ -147,6 +147,17 @@ This requires advanced connectors, actions, and permission control.
 | Multiple editors | No | Yes |
 | Governance and scalability | Limited | Full |
 
+
+| Dimension         | Copilot Studio Lite | Copilot Studio Full            |
+| ----------------- | ------------------- | ------------------------------ |
+| Agent type        | Declarative agent   | Declarative agent              |
+| Interaction model | Conversational only | Conversational and autonomous  |
+| Trigger           | User prompt         | User prompt, events, workflows |
+| Actions           | Minimal             | Extensive                      |
+| Autonomy          | No                  | Possible                       |
+| Orchestration     | Limited             | Full                           |
+
+
 ---
 
 ## Practical Rule of Thumb
