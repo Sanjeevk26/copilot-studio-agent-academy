@@ -1,10 +1,5 @@
 # Lesson 03 – Deploy a Declarative Agent for Microsoft 365 Copilot
 
-## Status
-
-In progress.  
-This lesson documents my understanding of declarative agents and the capabilities of Microsoft Copilot Studio before completing the hands-on lab.
-
 ---
 
 ## Overview
