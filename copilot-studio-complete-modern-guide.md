@@ -251,8 +251,8 @@ Developer mode shows:
 - How instructions were applied
 
 Commands:
--developer on
--developer off
+- developer on
+- developer off
 
 
 ---
