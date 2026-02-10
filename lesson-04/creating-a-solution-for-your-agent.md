@@ -184,8 +184,4 @@ All changes originate from development—production is never edited directly.
 
 ---
 
-## Next Steps
-
-The next lesson focuses on **working with prebuilt agents** and understanding how solutions support reuse, extension, and enterprise-scale agent development.
-
 
