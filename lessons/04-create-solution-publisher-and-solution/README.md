@@ -156,12 +156,4 @@ Mission Status: Complete
 
 ---
 
-## Next Lesson
-
-Next, we will:
-
-- Add or move the IT Helpdesk Agent into this custom solution
-- Explore working with prebuilt agents
-- Understand how solutions support reuse and extension
-
 
