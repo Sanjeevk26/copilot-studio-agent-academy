@@ -61,3 +61,107 @@ Example:
 
 If the default value is `77074`, change it to:
 
+77000
+
+
+Optional:
+- Navigate to the Contact tab and provide contact details (not required for this lab).
+
+2. Select **Save**
+
+Publisher creation complete.
+
+---
+
+## 4.2 Create the Custom Solution
+
+After saving the publisher, you return to the New Solution pane.
+
+### Step 4 – Complete Solution Details
+
+Populate the following:
+
+| Field | Value |
+|-------|--------|
+| Display name | Contoso Helpdesk Agent |
+| Name | ContosoHelpdeskAgent |
+| Version | 1.0.0.0 (default) |
+
+Select:
+
+- Set as your preferred solution (checkbox)
+
+Leave **More options** fields blank for this lab.
+
+Select **Create**
+
+---
+
+## Step 5 – Validate Solution Creation
+
+After creation:
+
+- The solution appears in Solution Explorer
+- It contains **0 components** (expected)
+- It is marked as **Current preferred solution**
+
+This ensures that any new agent created will automatically be added to this solution.
+
+---
+
+## Verification Checklist
+
+Confirm the following:
+
+- [ ] Developer environment selected  
+- [ ] Publisher created with prefix `cts`  
+- [ ] Choice value prefix rounded correctly  
+- [ ] Solution named Contoso Helpdesk Agent  
+- [ ] Version is 1.0.0.0  
+- [ ] Preferred solution checkbox selected  
+- [ ] Solution visible in Solution Explorer  
+
+---
+
+## Why This Matters (Practical Reflection)
+
+By creating a dedicated solution:
+
+- Agent components are isolated from the Default solution
+- Deployment becomes structured and repeatable
+- Future exports to Test / UAT / Production are simplified
+- Naming conventions are controlled via publisher prefix
+- ALM best practices are enforced from day one
+
+---
+
+## What Happens Next
+
+When we create or move the IT Helpdesk Agent into this solution:
+
+- All related components (prompts, flows, environment variables) will be packaged together
+- The solution can later be exported as Managed
+- The solution can be imported into Test or Production environments
+
+---
+
+## Lab Outcome
+
+Publisher Created: Yes  
+Custom Solution Created: Yes  
+Preferred Solution Set: Yes  
+Environment Prepared for ALM: Yes  
+
+Mission Status: Complete
+
+---
+
+## Next Lesson
+
+Next, we will:
+
+- Add or move the IT Helpdesk Agent into this custom solution
+- Explore working with prebuilt agents
+- Understand how solutions support reuse and extension
+
+
