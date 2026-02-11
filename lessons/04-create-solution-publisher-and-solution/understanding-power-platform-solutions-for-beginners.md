@@ -1,5 +1,3 @@
-File name: lesson-04-understanding-power-platform-solutions-for-beginners.md
-
 # Understanding Power Platform Solutions (Explained for Beginners)
 
 ## What Is a “Solution” in Simple Terms?
