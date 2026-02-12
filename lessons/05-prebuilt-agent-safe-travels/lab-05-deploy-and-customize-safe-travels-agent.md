@@ -1,5 +1,3 @@
-# lab-05-deploy-and-customize-safe-travels-agent.md
-
 # Lab 05 – Deploy and Customize the Safe Travels Agent
 
 ---
