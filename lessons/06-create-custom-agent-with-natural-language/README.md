@@ -1,9 +1,3 @@
-Folder name:
-lessons/06-create-custom-agent-with-natural-language
-
-File name:
-lessons/06-create-custom-agent-with-natural-language/README.md
-
 # Lesson 06 – Create a Custom Agent Using Natural Language in Copilot Studio
 
 ## Overview
@@ -289,20 +283,5 @@ Review:
 
 Always validate referenced sources.
 
----
-
-## Mission Complete
-
-You have successfully:
-
-- Created a custom agent using natural language
-- Configured structured instructions
-- Added four knowledge sources
-- Verified grounding through references
-- Built an enterprise-ready IT Helpdesk agent
-
----
-
-## Next Lesson
 
 Add a new Topic with trigger phrases to guide conversations more precisely.
