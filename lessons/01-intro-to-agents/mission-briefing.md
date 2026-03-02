@@ -53,6 +53,12 @@ Each model has a maximum number of tokens it can consider at one time. When the 
 **Prompting**  
 You interact with an LLM using prompts. Clear, well-structured prompts lead to better, more focused responses.
 
+**Attention Mechanism**
+Attention lets the model focus on different parts of the input when generating each token. Instead of processing text strictly left-to-right, the model can “look back” at all previous tokens and decide which ones matter most for predicting the next token.
+
+**Fine-Tuning and Alignment**
+After initial training on large text corpora, models are often fine-tuned on smaller, curated datasets. This can improve helpfulness, safety, and task-specific performance (such as following instructions, writing code, or answering questions more politely and accurately).
+
 > **Pro Tip**  
 > A useful analogy is to think of an LLM as a *very advanced autocomplete system*. It doesn’t “understand” meaning like a human, but it is extremely good at predicting what should come next.
 
