@@ -1,5 +1,3 @@
-# lab-07-available-devices-topic-sharepoint.md
-
 # Lab 07 – Add a New Topic with Triggers, Variables, and a SharePoint Tool
 
 ## Lab Objective
