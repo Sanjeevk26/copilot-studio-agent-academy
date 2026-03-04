@@ -1,5 +1,3 @@
-# README.md
-
 # Lesson 07 – Topics and Triggers (Stay on Topic)
 
 ## Overview
