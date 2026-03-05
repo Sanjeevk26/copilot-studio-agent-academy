@@ -1,5 +1,3 @@
-# lab-08-request-device-adaptive-card-topic.md
-
 # Lab 08 – Add Adaptive Cards and Enhance Topic Capabilities
 
 ## Lab Objective
@@ -209,9 +207,3 @@ Refresh the test pane to clear the session after validation.
 - Agent instructions updated for routing
 - Track between topics enabled and verified
 - Adaptive card displayed after redirect
-
----
-
-## Result
-
-The agent now supports device requests using an interactive Adaptive Card and can route from device lookup to device request using topic-based orchestration.
