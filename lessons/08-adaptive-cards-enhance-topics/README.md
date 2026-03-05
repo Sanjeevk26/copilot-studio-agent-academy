@@ -1,5 +1,3 @@
-# README.md
-
 # Lesson 08 – Adaptive Cards (Enhance Topic Capabilities)
 
 ## Overview
@@ -130,16 +128,3 @@ When designing Adaptive Cards:
 
 ---
 
-## What This Lesson Implements
-
-In the lab, we:
-
-- Create a new topic called Request device
-- Add an Ask with adaptive card node
-- Start with JSON as a placeholder template
-- Convert the card to Formula mode
-- Use a Power Fx formula to populate device choices dynamically from Global.VarDevices.value
-- Update agent instructions to route from Available devices to Request device when the user says yes
-- Enable cross-topic tracking during testing and validate redirection
-
-Proceed to the lab file for the practical steps.
