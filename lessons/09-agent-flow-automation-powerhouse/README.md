@@ -1,9 +1,3 @@
-Folder name:
-lessons/09-agent-flow-automation-powerhouse
-
-File name:
-lessons/09-agent-flow-automation-powerhouse/README.md
-
 # Lesson 09 – Add an Agent Flow to Your Topic for Automation
 
 ## Overview
@@ -345,15 +339,5 @@ In the device request process, an agent flow can be used to support an end-to-en
 This turns the topic into a complete business process instead of only a conversational experience.
 
 ---
-
-## Key Takeaway
-
-Agent flows are what turn a Copilot Studio agent into an automation-enabled assistant. They provide structure, predictability, and system connectivity so the agent can do meaningful work inside the conversation.
-
-The combination of topics, adaptive cards, and agent flows makes it possible to create guided, interactive, and action-oriented business experiences.
-
----
-
-## Next Step
 
 The next practical implementation should focus on adding an actual agent flow to the device request topic so the request can be processed automatically after the user submits the adaptive card.
