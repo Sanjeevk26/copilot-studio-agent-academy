@@ -336,8 +336,4 @@ In the device request process, an agent flow can be used to support an end-to-en
 3. Send a notification email to the appropriate manager
 4. Confirm the request submission to the employee
 
-This turns the topic into a complete business process instead of only a conversational experience.
 
----
-
-The next practical implementation should focus on adding an actual agent flow to the device request topic so the request can be processed automatically after the user submits the adaptive card.
